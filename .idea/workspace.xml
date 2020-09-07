@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_01/123.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/31.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/三数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/最小栈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/有效的括号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/柱状图中最大的矩形.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/爬楼梯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/环形链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/盛水最多的容器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/移动零.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hAupnSdMgO9oVJYGatmVa0Vg1h" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,6 +38,100 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.有效的括号">
+    <configuration name="移动零" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/移动零.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="盛水最多的容器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/盛水最多的容器.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="三数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/三数之和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="有效的括号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/有效的括号.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.有效的括号" />
+        <item itemvalue="Python.三数之和" />
+        <item itemvalue="Python.盛水最多的容器" />
+        <item itemvalue="Python.移动零" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,5 +143,43 @@
       <updated>1599466402638</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1599486723142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599486723142" />
+    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1599486723141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599486723141" />
+    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1599486723141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599486723141" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1599486723142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599486723142" />
+    <state width="1362" height="327" key="GridCell.Tab.1.bottom" timestamp="1599485385436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599485385436" />
+    <state width="1362" height="327" key="GridCell.Tab.1.center" timestamp="1599485385436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="327" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599485385436" />
+    <state width="1362" height="327" key="GridCell.Tab.1.left" timestamp="1599485385436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="327" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599485385436" />
+    <state width="1362" height="327" key="GridCell.Tab.1.right" timestamp="1599485385436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="327" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599485385436" />
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1599487492515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599487492515" />
   </component>
 </project>
