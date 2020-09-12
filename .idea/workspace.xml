@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_01/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/内功修炼.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/内功修炼.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Week_01/README.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/README.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
