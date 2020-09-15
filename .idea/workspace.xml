@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_01/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_01/README.pdf" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/N叉树的后序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/N叉树的层序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/二叉树的中序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/二叉树的前序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/堆排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/字母异位词分组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/岛屿数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/最小的k个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/有效的字母异位词.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/滑动窗口最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_02/邻接表.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/s.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_02/N叉树的前序遍历.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +43,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.s">
-    <configuration name="旋转数组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Documents\GitHub\algorithm016\Week_02" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1">
+    <configuration name="堆排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/旋转数组.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/堆排序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -54,70 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="两数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm016" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/两数之和.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="加一" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm016" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/加一.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="接雨水" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm016" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_01/接雨水.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,7 +82,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/s.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="邻接表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Documents\GitHub\algorithm016\Week_02\邻接表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字母异位词分组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/字母异位词分组.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="最小的k个数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm016" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_02/最小的k个数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s" />
-        <item itemvalue="Python.接雨水" />
-        <item itemvalue="Python.加一" />
-        <item itemvalue="Python.两数之和" />
-        <item itemvalue="Python.旋转数组" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.邻接表" />
+        <item itemvalue="Python.堆排序" />
+        <item itemvalue="Python.最小的k个数" />
+        <item itemvalue="Python.字母异位词分组" />
       </list>
     </recent_temporary>
   </component>
@@ -160,41 +176,45 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1599811211837">
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1600161117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599811211837" />
-    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1599811211837">
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600161117850" />
+    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1600161117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599811211837" />
-    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1599811211837">
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600161117850" />
+    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1600161117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599811211837" />
-    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1599811211837">
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600161117850" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1600161117850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599811211837" />
-    <state width="1362" height="327" key="GridCell.Tab.1.bottom" timestamp="1599550837225">
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600161117850" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1600067382917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="327" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599550837225" />
-    <state width="1362" height="327" key="GridCell.Tab.1.center" timestamp="1599550837225">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600067382917" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1600067382917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="327" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599550837225" />
-    <state width="1362" height="327" key="GridCell.Tab.1.left" timestamp="1599550837225">
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600067382917" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1600067382917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="327" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599550837225" />
-    <state width="1362" height="327" key="GridCell.Tab.1.right" timestamp="1599550837225">
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600067382917" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1600067382917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="327" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599550837225" />
-    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1599487492515">
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600067382917" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1600067150427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599487492515" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600067150427" />
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1600065766472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600065766472" />
   </component>
 </project>
