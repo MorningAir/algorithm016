@@ -1,9 +1,9 @@
 class Solution:
     def heapsort(self, nums):
         n = len(nums)
-        for i in range((n - 1) // 2, -1, -1):
+        for i in range((n - 1) // 2, -1, -1):#建堆的过程，从子堆开始，逐步往上建
             self.heapify(nums, n, i)
-        for i in range(n - 1, 0, -1):
+        for i in range(n - 1, 0, -1):#取最大，与最后一个位置交换
             nums[0], nums[i] = nums[i], nums[0]
             self.heapify(nums, i, 0)
 

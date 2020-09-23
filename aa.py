@@ -1,11 +1,15 @@
-class Solution:
-    def subsets(self, nums):
-        res = [[]]
-        for i in nums:
-            for j in res[:]:
-                res += [j + [i]]
-        return res
+def myPow(x, n, p):
+    if n == 0:
+        return 1
+    if n < 0:
+        return 1 / myPow(x, -n, p)
+    else:
+
+        if n % 2 == 1:
+            return myPow(x * x % p, n // 2,p) * x % p
+        else:
+            return myPow(x * x % p, n // 2,p)
 
 
-s = Solution()
-print(s.subsets([1, 2, 3]))
+a = list(map(int, input().split()))
+print(myPow(a[0], a[1], a[2]))
