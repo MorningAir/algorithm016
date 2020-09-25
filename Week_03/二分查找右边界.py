@@ -14,6 +14,3 @@ class Solution:
         if right <0 or nums[right]!=target:
             return -1
         return right
-
-s = Solution()
-print(s.solve([1,2,2,2],1.5))

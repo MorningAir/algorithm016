@@ -10,10 +10,7 @@ class Solution:
             elif nums[mid] > target:
                 right = mid-1
             else:
-                left = mid+1
-        if right <0 or nums[right]!=target:
+                right = mid-1
+        if left >=len(nums) or nums[left]!=target:
             return -1
-        return right
-
-s = Solution()
-print(s.solve([1,2,2,2],1.5))
+        return left

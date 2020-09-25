@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Week_03/二分查找右边界.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/二分查找左边界.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/合并二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_03/递增子序列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/全排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/全排列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/全排列2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/全排列2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/把字符串转换成整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/把字符串转换成整数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +43,7 @@
       <recent name="C:\Users\Administrator\Documents\GitHub\algorithm016\Week_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.全排列">
+  <component name="RunManager" selected="Python.aa">
     <configuration name="验证二叉搜索树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,10 +151,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aa" />
         <item itemvalue="Python.全排列" />
         <item itemvalue="Python.全排列2" />
         <item itemvalue="Python.组合" />
-        <item itemvalue="Python.aa" />
         <item itemvalue="Python.验证二叉搜索树" />
       </list>
     </recent_temporary>
@@ -167,22 +171,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1600849363695">
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1601009144542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600849363695" />
-    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1600849363695">
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144542" />
+    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1601009144541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600849363695" />
-    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1600849363695">
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
+    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1601009144541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600849363695" />
-    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1600849363695">
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1601009144541">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600849363695" />
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
     <state width="1362" height="326" key="GridCell.Tab.1.bottom" timestamp="1600579702696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
