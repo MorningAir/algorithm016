@@ -12,3 +12,5 @@ class Solution:
         return ans
 s = Solution()
 print(s.subsets([1,2,3]))
+
+

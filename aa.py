@@ -1,19 +1,7 @@
-class Solution:
-    def solve(self,nums,target):
-        left = 0
-        right = len(nums)-1
-        nums.sort()
-        while left<=right:
-            mid = (right-left)//2+left
-            if nums[mid] < target:
-                left = mid+1
-            elif nums[mid] > target:
-                right = mid-1
-            else:
-                left = mid+1
-        if right <0 or nums[right]!=target:
-            return -1
-        return right
-
-s = Solution()
-print(s.solve([1,2,2,2],1.5))
+num = [-1,-3,2,5,4,6]
+ans = [-float('inf') for _ in range(len(num))]
+ans[0] = num[0]
+for i in range(1,len(num)):
+    ans[i] = max(ans[i-1], num[i])
+print(ans)
+ans.sort()

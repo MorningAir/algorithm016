@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_03/二分查找右边界.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/二分查找左边界.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/合并二叉树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_03/递增子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/买卖股票的最佳时机2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/分发饼干.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/单词接龙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/寻找旋转排序数组中的最小值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/岛屿数量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/扫雷游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/搜索二维矩阵.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/搜索旋转排序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/柠檬水找零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/模拟行走机器人.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/正则表达式匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_04/跳跃游戏.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/把字符串转换成整数.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/把字符串转换成整数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/二分查找左边界.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/二分查找左边界.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/子集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/递增子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/递增子序列.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +53,8 @@
       <recent name="C:\Users\Administrator\Documents\GitHub\algorithm016\Week_02" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aa">
-    <configuration name="验证二叉搜索树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.搜索二维矩阵">
+    <configuration name="分发饼干" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +62,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_03/验证二叉搜索树.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_04/分发饼干.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="全排列2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="搜索二维矩阵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +83,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_03/全排列2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_04/搜索二维矩阵.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="组合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="单词接龙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_03/组合.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_04/单词接龙.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="全排列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="扫雷游戏" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm016" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week_04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_03/全排列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week_04/扫雷游戏.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.搜索二维矩阵" />
         <item itemvalue="Python.aa" />
-        <item itemvalue="Python.全排列" />
-        <item itemvalue="Python.全排列2" />
-        <item itemvalue="Python.组合" />
-        <item itemvalue="Python.验证二叉搜索树" />
+        <item itemvalue="Python.分发饼干" />
+        <item itemvalue="Python.扫雷游戏" />
+        <item itemvalue="Python.单词接龙" />
       </list>
     </recent_temporary>
   </component>
@@ -171,38 +181,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom" timestamp="1601009144542">
+    <state width="1899" height="320" key="GridCell.Tab.0.bottom" timestamp="1601964205711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144542" />
-    <state width="1362" height="265" key="GridCell.Tab.0.center" timestamp="1601009144541">
+    <state width="1899" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601964205711" />
+    <state width="1899" height="320" key="GridCell.Tab.0.center" timestamp="1601964205711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
-    <state width="1362" height="265" key="GridCell.Tab.0.left" timestamp="1601009144541">
+    <state width="1899" height="320" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601964205711" />
+    <state width="1899" height="320" key="GridCell.Tab.0.left" timestamp="1601964205711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
-    <state width="1362" height="265" key="GridCell.Tab.0.right" timestamp="1601009144541">
+    <state width="1899" height="320" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601964205711" />
+    <state width="1899" height="320" key="GridCell.Tab.0.right" timestamp="1601964205711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601009144541" />
-    <state width="1362" height="326" key="GridCell.Tab.1.bottom" timestamp="1600579702696">
+    <state width="1899" height="320" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601964205711" />
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom" timestamp="1601372426844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600579702696" />
-    <state width="1362" height="326" key="GridCell.Tab.1.center" timestamp="1600579702696">
+    <state width="1899" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601372426844" />
+    <state width="1899" height="346" key="GridCell.Tab.1.center" timestamp="1601372426844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600579702696" />
-    <state width="1362" height="326" key="GridCell.Tab.1.left" timestamp="1600579702696">
+    <state width="1899" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601372426844" />
+    <state width="1899" height="346" key="GridCell.Tab.1.left" timestamp="1601372426844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600579702696" />
-    <state width="1362" height="326" key="GridCell.Tab.1.right" timestamp="1600579702696">
+    <state width="1899" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601372426844" />
+    <state width="1899" height="346" key="GridCell.Tab.1.right" timestamp="1601372426844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1362" height="326" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600579702696" />
+    <state width="1899" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601372426844" />
     <state x="545" y="231" key="SettingsEditor" timestamp="1600675525519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -211,9 +221,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1600067150427" />
-    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1600065766472">
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup" timestamp="1601963539737">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600065766472" />
+    <state x="856" y="308" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1601963539737" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week_04/柠檬水找零.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

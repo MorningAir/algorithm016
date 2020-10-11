@@ -11,6 +11,6 @@ class Solution:
                 right = mid-1
             else:
                 right = mid-1
-        if left >=len(nums) or nums[left]!=target:
+        if left >=len(nums) or nums[left]!=target:#左指针是否在数组范围内，且等于target
             return -1
-        return left
+        return left#求左边界就返回左指针，判断左指针是否合法
