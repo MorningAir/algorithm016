@@ -2,23 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c822b9-672c-4a21-af92-3bfc66ff3213" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week_04/买卖股票的最佳时机2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/分发饼干.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/单词接龙.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/寻找旋转排序数组中的最小值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/岛屿数量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/扫雷游戏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/搜索二维矩阵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/搜索旋转排序数组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/柠檬水找零.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/模拟行走机器人.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/正则表达式匹配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week_04/跳跃游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_05/最小路径和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week_05/解码方法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/二分查找左边界.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/二分查找左边界.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/子集.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_03/递增子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_03/递增子序列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aa.py" beforeDir="false" afterPath="$PROJECT_DIR$/aa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
